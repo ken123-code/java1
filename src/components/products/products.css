@@ -1,0 +1,50 @@
+.product-card {
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 0 !important;
+  border-radius: 16px;
+}
+.product-card-img {
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 100%;
+  height: auto;
+}
+.filter-col {
+  padding: 0 !important;
+}
+.filter-container {
+  box-sizing: border-box;
+}
+.filter-input,
+.filter-select {
+  width: 100%;
+  box-sizing: border-box;
+}
+.banner_container{
+  overflow: hidden;
+}
+.frontage-bold {
+  font-family: 'Frontage', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center; 
+  letter-spacing: 2px; 
+}
+.banner_container {
+  position: relative;
+}
+
+.product-card-video {
+  width: 100%; /* Adjust as necessary */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.Title {
+  font-size: 2rem; /* Adjust size as needed */
+  text-align: center;
+}
+
+.innerTitle {
+  /* Any additional styles for inner title */
+}
